@@ -1,0 +1,16 @@
+[
+{
+  "modid": "knokkomegahardcore",
+  "name": "Mega Hardcore",
+  "description": "A mod that makes survivaling a challenge.",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["knokko"],
+  "credits": "Forge and FML, for making modding possible, and knokko for making the mod.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
